@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1684503265 source:c:\users\mario\desktop\facultate anul1\structuri de date\atm_liste_dublu_inlantuite\testlist.cpp
+	"TestList.h"
+	"List.h"
+	"Colectie.h"
+	"RepoATM.h"
+	"Tranzactie.h"
+	<vector>
+	<assert.h>
+
+1684330072 c:\users\mario\desktop\facultate anul1\structuri de date\atm_liste_dublu_inlantuite\testlist.h
+
+1684248127 c:\users\mario\desktop\facultate anul1\structuri de date\atm_liste_dublu_inlantuite\list.h
+	"Node.h"
+	<iostream>
+
+1684245554 c:\users\mario\desktop\facultate anul1\structuri de date\atm_liste_dublu_inlantuite\node.h
+
+1685976989 source:c:\users\mario\desktop\facultate anul1\structuri de date\atm_liste_dublu_inlantuite\main.cpp
+	<iostream>
+	<vector>
+	"List.h"
+	"TestList.h"
+	"Colectie.h"
+	"RepoATM.h"
+	"UI.h"
+	"Tranzactie.h"
+
+1684257579 source:c:\users\mario\desktop\facultate anul1\structuri de date\atm_liste_dublu_inlantuite\colectie.cpp
+	<iostream>
+	"Colectie.h"
+	"List.h"
+	<tuple>
+
+1684252465 c:\users\mario\desktop\facultate anul1\structuri de date\atm_liste_dublu_inlantuite\colectie.h
+	"List.h"
+	<tuple>
+
+1684250903 source:c:\users\mario\desktop\facultate anul1\structuri de date\atm_liste_dublu_inlantuite\ui-atm.cpp
+
+1684327586 c:\users\mario\desktop\facultate anul1\structuri de date\atm_liste_dublu_inlantuite\repoatm.h
+	"Colectie.h"
+	"List.h"
+	"Tranzactie.h"
+	<vector>
+	<string.h>
+
+1684326867 c:\users\mario\desktop\facultate anul1\structuri de date\atm_liste_dublu_inlantuite\ui.h
+	"RepoATM.h"
+	"RepoFile.h"
+	<vector>
+
+1684490566 source:c:\users\mario\desktop\facultate anul1\structuri de date\atm_liste_dublu_inlantuite\repoatm.cpp
+	<iostream>
+	"RepoATM.h"
+	"Colectie.h"
+	"List.h"
+	<vector>
+	<fstream>
+
+1685977533 source:c:\users\mario\desktop\facultate anul1\structuri de date\atm_liste_dublu_inlantuite\ui.cpp
+	<iostream>
+	<string.h>
+	"UI.h"
+	"RepoATM.h"
+	"Tranzactie.h"
+
+1684316161 c:\users\mario\desktop\facultate anul1\structuri de date\atm_liste_dublu_inlantuite\tranzactie.h
+	"Colectie.h"
+	<iostream>
+	<vector>
+
+1684326902 c:\users\mario\desktop\facultate anul1\structuri de date\atm_liste_dublu_inlantuite\repofile.h
+	<iostream>
+	<fstream>
+	"RepoATM.h"
+	<vector>
+	<string.h>
+
+1684329673 source:c:\users\mario\desktop\facultate anul1\structuri de date\atm_liste_dublu_inlantuite\repofile.cpp
+	<iostream>
+	<fstream>
+	"RepoATM.h"
+	<vector>
+	<string.h>
+	"RepoFile.h"
+
